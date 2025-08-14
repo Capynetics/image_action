@@ -1,0 +1,9 @@
+# Goal
+sensor_msgs/Image image1
+sensor_msgs/Image image2
+string description
+---
+# Result
+bool result
+---
+# Feedback (none in this case)
